@@ -1,0 +1,6 @@
+sample_id,experiment_date,biomarker_value,unit,technician
+S001,2024-01-01,12.4,mg/L,TechA
+S002,2024-01-02,15.1,mg/L,TechB
+S003,2024-01-03,9.8,mg/L,TechA
+S004,2024-01-04,18.2,mg/L,TechC
+S005,2024-01-05,11.7,mg/L,TechB
